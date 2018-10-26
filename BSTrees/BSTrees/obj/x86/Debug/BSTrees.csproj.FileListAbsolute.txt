@@ -1,0 +1,6 @@
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/bin/Debug/BSTrees.exe
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/bin/Debug/BSTrees.pdb
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/obj/x86/Debug/BSTrees.csprojAssemblyReference.cache
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/obj/x86/Debug/BSTrees.csproj.CoreCompileInputs.cache
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/obj/x86/Debug/BSTrees.exe
+/Users/xanderkaylan/Desktop/IDAPS III/Projects/PE19/BSTrees/BSTrees/obj/x86/Debug/BSTrees.pdb
